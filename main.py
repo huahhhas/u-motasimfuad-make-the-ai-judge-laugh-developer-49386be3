@@ -10,7 +10,7 @@ import hashlib
 import os
 import sys
 
-LINE = "It worked on my machine because my machine is the only environment that still believes in me."
+LINE = "It worked on my machine, which runs on hope, cached credentials, and a fan that hasn't spun since 2019."
 
 
 def main() -> int:
