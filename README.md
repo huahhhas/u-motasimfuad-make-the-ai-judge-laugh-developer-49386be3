@@ -8,7 +8,7 @@ Write one funny single-line excuse a developer gives when code breaks in product
 
 The entry:
 
-> "It worked on my machine because my machine is the only environment that still believes in me."
+> "It worked on my machine, which runs on hope, cached credentials, and a fan that hasn't spun since 2019."
 
 ## Run it
 
